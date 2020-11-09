@@ -1,0 +1,3 @@
+include ':app:quic_data'
+include ':app'
+rootProject.name = "QuicDemo"
